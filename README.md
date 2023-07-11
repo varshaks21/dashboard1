@@ -17,7 +17,7 @@ which displays some values with respective topics.
 
 This app is having following features:
 
-- Dashboard details
+- Display the contents present in the respective cards.
 
 
 ## Run the application
