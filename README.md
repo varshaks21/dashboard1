@@ -17,7 +17,7 @@ which displays some values with respective topics.
 
 This app is having following features:
 
-- Form Validation
+- Dashboard details
 
 
 ## Run the application
